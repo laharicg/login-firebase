@@ -1,0 +1,6 @@
+//Cors : To enable CORS & Body Parer to Parse data which is sent from Client
+// const bodyParser = require("body-parser");
+// const cors = require("cors");
+
+// app.use(bodyParser.json());
+// app.use(cors());
