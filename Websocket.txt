@@ -1,0 +1,9 @@
+Websocket
+
+-data passed in both directions as PACKETS
+-w/o breaking connctns & addnl HTTP reqs
+-e.g : online games
+
+let socket = new WebSocket("ws://javascript.info");
+- ws --> protocol in url
+-wss --> similar to https 
